@@ -1,6 +1,6 @@
 4nyT1m3R
 
-Apaixonado por proteger pessoas e organizações contra ataques cibernéticos. Solucionador de problemas criativo e inovador que está sempre procurando novas maneiras de melhorar a segurança cibernética. Tenho um forte conhecimento de segurança de rede, segurança de aplicativos e segurança de dados.
+Apaixonado por proteger pessoas e organizações contra ataques cibernéticos. Solucionador de problemas criativo e inovador que está sempre procurando novas maneiras de melhorar a segurança cibernética. Forte conhecimento de segurança de rede, segurança de aplicativos e segurança de dados.
 
 # Experiência:
 
