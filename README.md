@@ -28,3 +28,4 @@ Analista de Segurança da Informação na SEK (Security Ecosystem Knowledge)
 # Contato:
 
 - alexcastro.contato@protonmail.com
+- linkedin.com/in/itsanytimer/
