@@ -1,16 +1,30 @@
-### Hi there 👋
+4nyT1m3R
 
-<!--
-**4nyt1m3r/4nyt1m3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por proteger pessoas e organizações contra ataques cibernéticos. Solucionador de problemas criativo e inovador que está sempre procurando novas maneiras de melhorar a segurança cibernética. Tenho um forte conhecimento de segurança de rede, segurança de aplicativos e segurança de dados.
 
-Here are some ideas to get you started:
+# Experiência:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Analista de Segurança da Informação na SEK (Security Ecosystem Knowledge)
+
+# Habilidades:
+
+- Hardening de segurança Windows
+- Segurança de rede
+- Segurança de aplicativos
+- Segurança de dados
+- Análise de vulnerabilidades
+- Gerenciamento de riscos
+- Resposta a incidentes
+
+# Interesses:
+
+- Segurança cibernética
+- Hackers
+- Pesquisa
+- Tecnologia
+- Esportes
+- Música Eletrônica
+
+# Contato:
+
+- alexcastro.contato@protonmail.com
